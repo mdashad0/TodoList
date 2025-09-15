@@ -3,7 +3,7 @@ import { v4 as uuidv4 } from 'uuid';
 import './TodoList.css';
 
 export default function TodoList() {
-    let [todos, setTodos] = useState([{task: "sample-tsak", id: uuidv4(), done: false}]);
+    let [todos, setTodos] = useState([{task: <b>"sample-tsak"</b>, id: uuidv4(), done: false}]);
     let[newTodo, setNewTodo] = useState("");
 
     let addNewTask = () =>{
@@ -62,7 +62,7 @@ export default function TodoList() {
 
     return (
         <div className="todo-container">
-            <h1 className="todo-header">My Todo List</h1>
+            <h1 className="todo-header">Add Your Task</h1>
             
             <div className="todo-input-container">
                 <input 
