@@ -95,7 +95,7 @@ export default function TodoList() {
                                 className="btn btn-uppercase" 
                                 onClick={() => upercaseOne(todo.id)}
                             >
-                                ABC
+                                UPERCASE_ONE
                             </button>
                             <button 
                                 className="btn btn-delete" 
