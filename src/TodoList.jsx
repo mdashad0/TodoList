@@ -3,7 +3,7 @@ import { v4 as uuidv4 } from 'uuid';
 import './TodoList.css';
 
 export default function TodoList() {
-    let [todos, setTodos] = useState([{task: <b>"sample-tsak"</b>, id: uuidv4(), done: false}]);
+    let [todos, setTodos] = useState([{task: "sample-tsak", id: uuidv4(), done: false}]);
     let[newTodo, setNewTodo] = useState("");
 
     let addNewTask = () =>{
