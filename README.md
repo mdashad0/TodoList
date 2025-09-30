@@ -12,7 +12,7 @@ A modern, interactive Todo List application built with React and Vite. This appl
 - Responsive design
 - Clean and modern UI
 
-## Technologies Used
+## Technologies Used 
 
 - React
 - Vite
