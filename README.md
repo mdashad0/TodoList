@@ -25,7 +25,7 @@ A modern, interactive Todo List application built with React and Vite. This appl
 ### Prerequisites
 
 - Node.js (version 14 or higher)
-- npm (Node Package Manager)
+- npm (Node Package Manager).
 
 ### Installation
 
