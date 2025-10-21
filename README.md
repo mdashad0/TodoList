@@ -2,7 +2,7 @@
 
 A modern, interactive Todo List application built with React and Vite. This application allows users to manage their tasks effectively with a clean and intuitive interface.
 
-## Features
+## Features:
 
 - Add new tasks
 - Mark tasks as complete/incomplete
