@@ -27,7 +27,7 @@ A modern, interactive Todo List application built with React and Vite. This appl
 - Node.js (version 14 or higher)
 - npm (Node Package Manager).
 
-### Installation
+### Installation.
 
 1. Clone the repository:
    ```bash
