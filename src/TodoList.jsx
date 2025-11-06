@@ -105,7 +105,7 @@ export default function TodoList() {
                             </button>
                         </div>
                     </li>
-                ))}
+                ))};
             </ul>
 
             {todos.length > 0 && (
