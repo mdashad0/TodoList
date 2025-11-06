@@ -115,7 +115,7 @@ export default function TodoList() {
                 >
                     Uppercase All Tasks
                 </button>
-            )}
+            )};
         </div>
     );
 };
