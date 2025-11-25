@@ -8,6 +8,6 @@ function App() {
      <TodoList/>
     </>
   )
-}
+};
 
 export default App;
