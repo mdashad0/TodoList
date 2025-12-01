@@ -24,7 +24,7 @@
   };
   to {
     transform: rotate(360deg);
-  };
+  }
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -39,4 +39,4 @@
 
 .read-the-docs {
   color: #888;
-};
+}
