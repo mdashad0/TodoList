@@ -20,8 +20,6 @@ A modern, interactive Todo List application built with React and Vite. This appl
 - JavaScript (ES6+)
 - UUID for unique task IDs
 
-## Getting Started
-
 ### Prerequisites
 
 - Node.js (version 14 or higher)
