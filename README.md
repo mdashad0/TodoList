@@ -55,7 +55,7 @@ A modern, interactive Todo List application built with React and Vite. This appl
 3. For each task, you can:
    - Mark it as done/undone 
    - Convert it to uppercase
-   - Delete it
+   - Delete it.
 4. Use the "Uppercase All Tasks" button to convert all tasks to uppercase
 
 ## Contributing:
