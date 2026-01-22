@@ -68,7 +68,6 @@ Contributions are welcome! Feel free to submit issues and pull requests.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request.
 
-
 ## Author
 
 - **Md Ashad** - [GitHub Profile](https://github.com/mdashad0)
