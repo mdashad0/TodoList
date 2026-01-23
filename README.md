@@ -48,7 +48,7 @@ A modern, interactive Todo List application built with React and Vite. This appl
 
 5. Open your browser and visit `http://localhost:5173`
 
-## Usage
+## Usage.
 
 1. Type your task in the input field
 2. Click "Add Task" button to add the task to your list
